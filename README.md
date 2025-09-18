@@ -1,1 +1,1 @@
-
+There are 3 screenshots in the SCREENSHOTS folder. One of them is of the shadergraph, one of them shows the material with one color and a texture, and one of them shows the material with a color and 2 textures.
